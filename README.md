@@ -1,4 +1,4 @@
-h2>Prazer sou o Jorge Luis Zanguettin 🤓</h2>
+<h2>Prazer sou o Jorge Luis Zanguettin 🤓</h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorgezanguettin/)
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:jorgelzbr@gmail.com)
