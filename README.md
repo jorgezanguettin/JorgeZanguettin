@@ -6,7 +6,7 @@
 
 Estou presente na area da tecnologia desde 2017 e sou simplismente apaixonado pela tecnologia! 
 
-- 📚 <b>Graduado pela Fatec Pompéia Shunji Nishimura em Big Data</b>
+- 📚 <b>Graduado pela Fatec Pompéia Shunji Nishimura em Big Data no Agronegócio</b>
 - 📚 <b>Pós-graduando na PUC Minas em Ciência de dados e Big Data</b>
 - 🚀 <b>Python Developer | Web Crawler | Web Scraping</b>
 
