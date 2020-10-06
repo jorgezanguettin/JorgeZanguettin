@@ -1,16 +1,17 @@
-### Hi there 👋
+h2>Prazer sou o Jorge Luis Zanguettin 🤓</h2>
 
-<!--
-**JorgeZanguettin/JorgeZanguettin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorgezanguettin/)
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:jorgelzbr@gmail.com)
 
-Here are some ideas to get you started:
+Estou presente na area da tecnologia desde 2017 e sou simplismente apaixonado pela área!
+atualmente estou cursando pós graduação pela PUC Minas em Ciência de Dados e Big Data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 <b>Graduado pela Fatec Pompéia Shunji Nishimura em Big Data</b>
+- 📚 <b>Pós-graduando na PUC Minas em Ciência de dados e Big Data</b>
+- 🚀 <b>Python Developer | Web Crawler | Web Scraping</b>
+
+<hr>
+
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeZanguettin&show_icons=true&layout=compact" />
+</p>
