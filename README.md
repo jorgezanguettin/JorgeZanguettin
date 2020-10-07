@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:jorgelzbr@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/jorgezanguettin/)
 
-Estou presente na area da tecnologia desde 2017 e sou simplismente apaixonado pela tecnologia! 
+Estou presente na area da tecnologia desde 2017 e sou simplismente apaixonado pelas inovações que esta área apresenta!! 
 
 - 📚 <b>Graduado pela Fatec Pompéia Shunji Nishimura em Big Data no Agronegócio</b>
 - 📚 <b>Pós-graduando na PUC Minas em Ciência de dados e Big Data</b>
