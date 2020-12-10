@@ -13,5 +13,5 @@ Estou presente na area da tecnologia desde 2017 e sou simplismente apaixonado pe
 <hr>
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeZanguettin&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeZanguettin&show_icons=true&layout=compact&theme=tokyonight" />
 </p>
