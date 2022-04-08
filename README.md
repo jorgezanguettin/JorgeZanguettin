@@ -7,7 +7,7 @@
 Estou presente na área da tecnologia desde 2017 e sou simplismente apaixonado pelas inovações que esta área apresenta!! 
 
 - 📚 <b>Graduado pela Fatec Pompéia Shunji Nishimura em Big Data no Agronegócio</b>
-- 📚 <b>Pós-graduando na PUC Minas em Ciência de dados e Big Data</b>
+- 📚 <b>Pós-graduado na PUC Minas em Ciência de dados e Big Data</b>
 - 🚀 <b>Python Developer | Web Crawler | Web Scraping</b>
 
 <hr>
