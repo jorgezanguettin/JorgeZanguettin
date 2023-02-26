@@ -1,8 +1,8 @@
-<h2>Jorge Luis Zanguettin 🤓 | <b>🚀Python Developer</b></h2>
+<h2>Jorge Luis Zanguettin 🤓 | <b>🚀Python Developer | Data Scientist</b></h2>
 
 ### Alguns detalhes sobre a minha pessoa:
-- <b>Tenho 23 anos</b>
-- <b>Atualmente, moro em Pompeia - SP</b>
+- <b>Tenho 24 anos</b>
+- <b>Atualmente, moro em Lisboa, Portugal</b>
 - <b>Trabalho como Desenvolvedor Back-end há 5 anos</b>
 - <b>Amo Ciência de Dados!</b>
 - <b>Amo ajudar! Se precisar de qualquer coisa, estou aqui</b>
@@ -15,49 +15,25 @@
 
 
 ### Habilidades Técnicas (Hard Skills)
-Para avaliar as Habilidades Técnicas, utilizarei uma régua baseada em meus anos de experiência : [ 0 - 🟩🟩🟩🟩🟩 - 5 ]
+- <b>Python</b>
+  - <b>WEB/API: Django | Chalice | Flask</b>
+  - <b>Scrapping: Requests | BeautifulSoup4 | Scrapy | Selenium</b>
+  - <b>Data Science: Pandas | Numpy | TensorFlow | Keras | Scikit-learn | PySpark | NLP</b>
+  - <b>Quality Assurance (QA): PyTest | VCR</b>
 
-- <b>Python 3.0+</b>
-  - <b>Conhecimento da Linguagem [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>Web Crawlers (Requests, BeautifulSoup4, Selenium, Scrapy) [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>Manipulação de Bancos de Dados (PyMYSQL, PyMongo, Boto3) [ 🟩🟩🟩🟩⬜ ]</b>
-  - <b>API REST (Django, Flask) [ 🟩🟩🟩🟩⬜ ]</b>
-- <b>Banco de Dados</b>
-  - <b>SQL Server | MySQL [ 🟩🟩🟩🟩⬜ ]</b>
-  - <b>MongoDB [ 🟩🟩🟩🟩⬜ ]</b>
-  - <b>AWS S3 [ 🟩🟩🟩⬜⬜ ]</b>
-- <b>Ferramentas - Ciêntista de Dados</b>
-  - <b>Jupyter Notebook (Local, Colab) [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>Processamento de dados (Pandas, Numpy, PySpark) [ 🟩🟩🟩🟩⬜ ]</b>
-  - <b>Machine Learning (SkLearn) [ 🟩🟩🟩⬜⬜ ]</b>
-  - <b>Machine Learning (Keras, Tensorflow, NLP) [ 🟩⬜⬜⬜⬜ ]</b>
-  - <b>Spark [ 🟩⬜⬜⬜⬜ ]</b>
-  - <b>Microsoft PowerBI [ 🟩⬜⬜⬜⬜ ]</b>
-  - <b>Tableau [ 🟩⬜⬜⬜⬜ ]</b>
-- <b>Infraestrutura</b>
-  - <b>Linux (Ubuntu Server) [ 🟩🟩🟩🟩⬜ ]</b>
-  - <b>Heroku [ 🟩🟩🟩⬜⬜ ]</b>
-  - <b>Github Pages [ 🟩🟩🟩⬜⬜ ]</b>
-  - <b>AWS Lambda/EC2 [ 🟩🟩⬜⬜⬜ ]</b>
-  - <b>Docker [ 🟩⬜⬜⬜⬜ ]</b>
-- <b>GIT</b>
-  - <b>GitHub [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>GitLab [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>BitBucket [ 🟩🟩⬜⬜⬜ ]</b>
-- <b>Softwares</b>
-  - <b>Visual Studio Code [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>PyCharm [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>MySQL Workbranch [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>NoSQLBooster [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>Microsoft Office (Word, Excel, PowerPoint) [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>Slack [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>Hubspot (Web, Mobile, API, Automações) [ 🟩🟩🟩🟩🟩 ]</b>
-- <b>Metodologias</b>
-  - <b>Scrum [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>Kanban [ 🟩🟩🟩🟩🟩 ]</b>
-  - <b>Softwares</b>
-    - <b>Trello (Web, Mobile, API) [ 🟩🟩🟩🟩🟩 ]</b>
-    - <b>Jira (Web, Mobile) [ 🟩🟩🟩🟩🟩 ]</b>
+- <b>Databases</b>
+  - <b>MySQL | SQL Server | AWS RDS | Google BigQuery</b>
+  - <b>MongoDB | AWS DynamoDB | AWS S3</b>
+
+- <b>Data Engineering</b>
+  - <b>API Gateway | CloudFront | Lambda | EC2 | Zappa | Docker</b>
+  - <b>Cloud Functions</b>
+- <b>Code Control</b>
+  - <b>GitHub | GitLab</b>
+- <b>Methodologies</b>
+  - <b>Scrum | Kanbam</b>
+- <b>CRM Software</b>
+  - <b>Hubspot</b>
 <hr>
 
 ### Habilidades Interpessoais (Soft Skills)
