@@ -46,11 +46,13 @@
 
 ### Meus Contatos!
 - <b>[Linkedin](https://www.linkedin.com/in/jorgezanguettin/)</b>
-- <b>[Facebook](https://www.facebook.com/jorgezanguettin/)</b>
 - <b>[E-mail](mailto:jorgelzbr@gmail.com)</b>
 <hr>
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeZanguettin&show_icons=true&layout=compact&theme=tokyonight" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgezanguettin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgezanguettin&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 </p>
 
