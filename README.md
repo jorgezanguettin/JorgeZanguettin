@@ -1,4 +1,4 @@
-<h2>Jorge Luis Zanguettin 🤓 | <b>🚀Python Developer | Data Scientist</b></h2>
+<h2>Jorge Luis Zanguettin 🤓 | <b>Python Developer | Data Scientist</b></h2>
 
 ### Alguns detalhes sobre a minha pessoa:
 - <b>Tenho 24 anos</b>
