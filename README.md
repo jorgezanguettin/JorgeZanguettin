@@ -47,4 +47,3 @@
 ### Meus Contatos!
 - <b>[Linkedin](https://www.linkedin.com/in/jorgezanguettin/)</b>
 - <b>[E-mail](mailto:jorgelzbr@gmail.com)</b>
-<hr>
