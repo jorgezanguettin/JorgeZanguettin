@@ -1,5 +1,15 @@
 <img src="https://portfolio-resumes.s3.amazonaws.com/JORGE+ZANGUETTIN.png">
 
+<div align="center">
+  <h3><b>Visuali</b></h3>
+</div>
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/jorgezanguettin/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
+
 ### Alguns detalhes sobre a minha pessoa:
 - <b>Tenho 24 anos</b>
 - <b>Atualmente, moro em Portugal</b>
