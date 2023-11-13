@@ -1,7 +1,7 @@
 <img src="https://portfolio-resumes.s3.amazonaws.com/JORGE+ZANGUETTIN.png">
 
 <div align="center">
-  <h3><b>Visuali</b></h3>
+  <h3><b>Visualizações do perfil!</b></h3>
 </div>
 <p align="center">
   <img
