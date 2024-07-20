@@ -1,7 +1,7 @@
 <img src="https://portfolio-resumes.s3.amazonaws.com/JORGE+ZANGUETTIN.png">
 
 <div align="center">
-  <h3><b>Visualizações do perfil!</b></h3>
+  <h3><b>Visualizações do perfil</b></h3>
 </div>
 <p align="center">
   <img
@@ -47,13 +47,12 @@
 <hr>
 
 ### Habilidades Interpessoais (Soft Skills)
-- <b>Autoditada</b>
 - <b>Autonomia</b>
 - <b>Comunicação interpessoal</b>
 - <b>Proatividade</b>
 - <b>Capacidade analítica</b>
 <hr>
 
-### Meus Contatos!
+### Meus Contatos
 - <b>[Linkedin](https://www.linkedin.com/in/jorgezanguettin/)</b>
 - <b>[E-mail](mailto:jorgelzbr@gmail.com)</b>
