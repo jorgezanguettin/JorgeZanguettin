@@ -11,8 +11,7 @@
 </p>
 
 ### Alguns detalhes sobre a minha pessoa:
-- <b>Tenho 25 anos</b>
-- <b>Atualmente, moro em Portugal</b>
+- <b>Tenho 26 anos</b>
 - <b>Trabalho como Desenvolvedor Back-end há 6 anos</b>
 - <b>Amo Ciência de Dados!</b>
 - <b>Amo ajudar! Se precisar de qualquer coisa, estou aqui</b>
